@@ -1,0 +1,2 @@
+# No third-party packages are required for v0.1.
+# Tkinter ships with standard Windows Python installations.

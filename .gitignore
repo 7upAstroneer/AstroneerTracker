@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec.bak
+Diagnostics/
+tracker_data.json
+*.log

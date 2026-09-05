@@ -1,0 +1,1312 @@
+{
+  "items": [
+    {
+      "uid": "76077a9f0a6b3779",
+      "section": "Technology",
+      "ordinal": 1,
+      "image_filename": "Research Tech 1.png",
+      "column2_name": "Byte Value",
+      "column2_value": "2,580 Bytes",
+      "column3_name": "Research Time (At 100% power)",
+      "column3_value": "00:34:59",
+      "planets": [
+        "Sylva",
+        "Desolo",
+        "Calidor",
+        "Vesania",
+        "Novus",
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "f9cd85c67959edc9",
+      "section": "Technology",
+      "ordinal": 2,
+      "image_filename": "Research Tech 2.png",
+      "column2_name": "Byte Value",
+      "column2_value": "5,900 Bytes",
+      "column3_name": "Research Time (At 100% power)",
+      "column3_value": "00:25:00",
+      "planets": [
+        "Sylva",
+        "Desolo",
+        "Calidor",
+        "Vesania",
+        "Novus",
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "d33148d8b1ef9b5b",
+      "section": "Technology",
+      "ordinal": 3,
+      "image_filename": "Research Tech 3.png",
+      "column2_name": "Byte Value",
+      "column2_value": "7,400 Bytes",
+      "column3_name": "Research Time (At 100% power)",
+      "column3_value": "00:32:29",
+      "planets": [
+        "Sylva",
+        "Desolo",
+        "Calidor",
+        "Vesania",
+        "Novus",
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "7191c00ce108e247",
+      "section": "Technology",
+      "ordinal": 4,
+      "image_filename": "Research Tech 4.png",
+      "column2_name": "Byte Value",
+      "column2_value": "8,300 Bytes",
+      "column3_name": "Research Time (At 100% power)",
+      "column3_value": "00:45:00",
+      "planets": [
+        "Sylva",
+        "Desolo",
+        "Calidor",
+        "Vesania",
+        "Novus",
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "d628b60e79d757dc",
+      "section": "Technology",
+      "ordinal": 5,
+      "image_filename": "Research Tech 5.png",
+      "column2_name": "Byte Value",
+      "column2_value": "12,111 Bytes",
+      "column3_name": "Research Time (At 100% power)",
+      "column3_value": "1:24:30",
+      "planets": [
+        "Sylva",
+        "Desolo",
+        "Calidor",
+        "Vesania",
+        "Novus",
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "f8d898c63d6b3b98",
+      "section": "Mineral",
+      "ordinal": 1,
+      "image_filename": "Research Mineral 1.png",
+      "column2_name": "Planet",
+      "column2_value": "Sylva",
+      "column3_name": "Byte Value",
+      "column3_value": "450 Bytes",
+      "planets": [
+        "Sylva"
+      ]
+    },
+    {
+      "uid": "edd1644689e1aa44",
+      "section": "Mineral",
+      "ordinal": 2,
+      "image_filename": "Research Mineral 2.png",
+      "column2_name": "Planet",
+      "column2_value": "Sylva",
+      "column3_name": "Byte Value",
+      "column3_value": "480 Bytes",
+      "planets": [
+        "Sylva"
+      ]
+    },
+    {
+      "uid": "9e3dcbcb3434d17e",
+      "section": "Mineral",
+      "ordinal": 3,
+      "image_filename": "Research Mineral 3.png",
+      "column2_name": "Planet",
+      "column2_value": "Sylva",
+      "column3_name": "Byte Value",
+      "column3_value": "500 Bytes",
+      "planets": [
+        "Sylva"
+      ]
+    },
+    {
+      "uid": "4310c12b4094c216",
+      "section": "Mineral",
+      "ordinal": 4,
+      "image_filename": "Research Mineral 4.png",
+      "column2_name": "Planet",
+      "column2_value": "Sylva",
+      "column3_name": "Byte Value",
+      "column3_value": "565 Bytes",
+      "planets": [
+        "Sylva"
+      ]
+    },
+    {
+      "uid": "142fbca89a663b50",
+      "section": "Mineral",
+      "ordinal": 5,
+      "image_filename": "Research Mineral 5.png",
+      "column2_name": "Planet",
+      "column2_value": "Desolo",
+      "column3_name": "Byte Value",
+      "column3_value": "675 Bytes",
+      "planets": [
+        "Desolo"
+      ]
+    },
+    {
+      "uid": "75c731f3f72d476d",
+      "section": "Mineral",
+      "ordinal": 6,
+      "image_filename": "Research Mineral 6.png",
+      "column2_name": "Planet",
+      "column2_value": "Desolo",
+      "column3_name": "Byte Value",
+      "column3_value": "685 Bytes",
+      "planets": [
+        "Desolo"
+      ]
+    },
+    {
+      "uid": "15eb96e150856fa2",
+      "section": "Mineral",
+      "ordinal": 7,
+      "image_filename": "Research Mineral 7.png",
+      "column2_name": "Planet",
+      "column2_value": "Desolo",
+      "column3_name": "Byte Value",
+      "column3_value": "700 Bytes",
+      "planets": [
+        "Desolo"
+      ]
+    },
+    {
+      "uid": "08ba8ed2f6ae6567",
+      "section": "Mineral",
+      "ordinal": 8,
+      "image_filename": "Research Mineral 8.png",
+      "column2_name": "Planet",
+      "column2_value": "Sylva",
+      "column3_name": "Byte Value",
+      "column3_value": "750 Bytes",
+      "planets": [
+        "Sylva"
+      ]
+    },
+    {
+      "uid": "7178351effd90e93",
+      "section": "Mineral",
+      "ordinal": 9,
+      "image_filename": "Research Mineral 9.png",
+      "column2_name": "Planet",
+      "column2_value": "Sylva",
+      "column3_name": "Byte Value",
+      "column3_value": "900 Bytes",
+      "planets": [
+        "Sylva"
+      ]
+    },
+    {
+      "uid": "a62dceafaf3cafc5",
+      "section": "Mineral",
+      "ordinal": 10,
+      "image_filename": "Research Mineral 10.png",
+      "column2_name": "Planet",
+      "column2_value": "Calidor",
+      "column3_name": "Byte Value",
+      "column3_value": "940 Bytes",
+      "planets": [
+        "Calidor"
+      ]
+    },
+    {
+      "uid": "9761724f6c59d9d1",
+      "section": "Mineral",
+      "ordinal": 11,
+      "image_filename": "Research Mineral 11.png",
+      "column2_name": "Planet",
+      "column2_value": "Calidor",
+      "column3_name": "Byte Value",
+      "column3_value": "960 Bytes",
+      "planets": [
+        "Calidor"
+      ]
+    },
+    {
+      "uid": "5b87362956e8e104",
+      "section": "Mineral",
+      "ordinal": 12,
+      "image_filename": "Research Mineral 12.png",
+      "column2_name": "Planet",
+      "column2_value": "Desolo",
+      "column3_name": "Byte Value",
+      "column3_value": "1,015 Bytes",
+      "planets": [
+        "Desolo"
+      ]
+    },
+    {
+      "uid": "5984e93e14c1f6fc",
+      "section": "Mineral",
+      "ordinal": 13,
+      "image_filename": "Research Mineral 13.png",
+      "column2_name": "Planet",
+      "column2_value": "Desolo",
+      "column3_name": "Byte Value",
+      "column3_value": "1,080 Bytes",
+      "planets": [
+        "Desolo"
+      ]
+    },
+    {
+      "uid": "299d471f41a73df1",
+      "section": "Mineral",
+      "ordinal": 14,
+      "image_filename": "Research Mineral 14.png",
+      "column2_name": "Planet",
+      "column2_value": "Vesania",
+      "column3_name": "Byte Value",
+      "column3_value": "1,125 Bytes",
+      "planets": [
+        "Vesania"
+      ]
+    },
+    {
+      "uid": "37c9cf22fd0ad3e0",
+      "section": "Mineral",
+      "ordinal": 15,
+      "image_filename": "Research Mineral 15.png",
+      "column2_name": "Planet",
+      "column2_value": "Vesania",
+      "column3_name": "Byte Value",
+      "column3_value": "1,175 Bytes",
+      "planets": [
+        "Vesania"
+      ]
+    },
+    {
+      "uid": "b8982e8bef2cafa9",
+      "section": "Mineral",
+      "ordinal": 16,
+      "image_filename": "Research Mineral 16.png",
+      "column2_name": "Planet",
+      "column2_value": "Desolo",
+      "column3_name": "Byte Value",
+      "column3_value": "1,350 Bytes",
+      "planets": [
+        "Desolo"
+      ]
+    },
+    {
+      "uid": "a64ae069b6c1c3b4",
+      "section": "Mineral",
+      "ordinal": 17,
+      "image_filename": "Research Mineral 17.png",
+      "column2_name": "Planet",
+      "column2_value": "Novus",
+      "column3_name": "Byte Value",
+      "column3_value": "1,375 Bytes",
+      "planets": [
+        "Novus"
+      ]
+    },
+    {
+      "uid": "9a20adac6099a31c",
+      "section": "Mineral",
+      "ordinal": 18,
+      "image_filename": "Research Mineral 18.png",
+      "column2_name": "Planet",
+      "column2_value": "Novus",
+      "column3_name": "Byte Value",
+      "column3_value": "1,400 Bytes",
+      "planets": [
+        "Novus"
+      ]
+    },
+    {
+      "uid": "68f579154531a3fc",
+      "section": "Mineral",
+      "ordinal": 19,
+      "image_filename": "Research Mineral 19.png",
+      "column2_name": "Planet",
+      "column2_value": "Calidor",
+      "column3_name": "Byte Value",
+      "column3_value": "1,500 Bytes",
+      "planets": [
+        "Calidor"
+      ]
+    },
+    {
+      "uid": "be1daae751f55c35",
+      "section": "Mineral",
+      "ordinal": 20,
+      "image_filename": "Research Mineral 20.png",
+      "column2_name": "Planet",
+      "column2_value": "Calidor",
+      "column3_name": "Byte Value",
+      "column3_value": "1,575 Bytes",
+      "planets": [
+        "Calidor"
+      ]
+    },
+    {
+      "uid": "648469aa176c433c",
+      "section": "Mineral",
+      "ordinal": 21,
+      "image_filename": "Research Mineral 21.png",
+      "column2_name": "Planet",
+      "column2_value": "Glacio",
+      "column3_name": "Byte Value",
+      "column3_value": "1,600 Bytes",
+      "planets": [
+        "Glacio"
+      ]
+    },
+    {
+      "uid": "d37c4093b99fc4a8",
+      "section": "Mineral",
+      "ordinal": 22,
+      "image_filename": "Research Mineral 22.png",
+      "column2_name": "Planet",
+      "column2_value": "Glacio",
+      "column3_name": "Byte Value",
+      "column3_value": "1,625 Bytes",
+      "planets": [
+        "Glacio"
+      ]
+    },
+    {
+      "uid": "60702efab7ceb096",
+      "section": "Mineral",
+      "ordinal": 23,
+      "image_filename": "Research Mineral 23.png",
+      "column2_name": "Planet",
+      "column2_value": "Vesania",
+      "column3_name": "Byte Value",
+      "column3_value": "1,850 Bytes",
+      "planets": [
+        "Vesania"
+      ]
+    },
+    {
+      "uid": "195dbfb1c4df89d4",
+      "section": "Mineral",
+      "ordinal": 24,
+      "image_filename": "Research Mineral 24.png",
+      "column2_name": "Planet",
+      "column2_value": "Atrox",
+      "column3_name": "Byte Value",
+      "column3_value": "1,900 Bytes",
+      "planets": [
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "22f5f286f630afc3",
+      "section": "Mineral",
+      "ordinal": 25,
+      "image_filename": "Research Mineral 25.png",
+      "column2_name": "Planet",
+      "column2_value": "Atrox",
+      "column3_name": "Byte Value",
+      "column3_value": "1,950 Bytes",
+      "planets": [
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "dd2ff092829809ac",
+      "section": "Mineral",
+      "ordinal": 26,
+      "image_filename": "Research Mineral 26.png",
+      "column2_name": "Planet",
+      "column2_value": "Desolo",
+      "column3_name": "Byte Value",
+      "column3_value": "2,025 Bytes",
+      "planets": [
+        "Desolo"
+      ]
+    },
+    {
+      "uid": "6af2b38397ea07be",
+      "section": "Mineral",
+      "ordinal": 27,
+      "image_filename": "Research Mineral 27.png",
+      "column2_name": "Planet",
+      "column2_value": "Novus",
+      "column3_name": "Byte Value",
+      "column3_value": "2,200 Bytes",
+      "planets": [
+        "Novus"
+      ]
+    },
+    {
+      "uid": "f154eca4e90d7d81",
+      "section": "Mineral",
+      "ordinal": 28,
+      "image_filename": "Research Mineral 28.png",
+      "column2_name": "Planet",
+      "column2_value": "Calidor",
+      "column3_name": "Byte Value",
+      "column3_value": "2,250 Bytes",
+      "planets": [
+        "Calidor"
+      ]
+    },
+    {
+      "uid": "6aea17b6650c8b18",
+      "section": "Mineral",
+      "ordinal": 29,
+      "image_filename": "Research Mineral 29.png",
+      "column2_name": "Planet",
+      "column2_value": "Vesania",
+      "column3_name": "Byte Value",
+      "column3_value": "2,250 Bytes",
+      "planets": [
+        "Vesania"
+      ]
+    },
+    {
+      "uid": "959d162bb8f247ec",
+      "section": "Mineral",
+      "ordinal": 30,
+      "image_filename": "Research Mineral 30.png",
+      "column2_name": "Planet",
+      "column2_value": "Glacio",
+      "column3_name": "Byte Value",
+      "column3_value": "2,600 Bytes",
+      "planets": [
+        "Glacio"
+      ]
+    },
+    {
+      "uid": "d916fa762b22e481",
+      "section": "Mineral",
+      "ordinal": 31,
+      "image_filename": "Research Mineral 31.png",
+      "column2_name": "Planet",
+      "column2_value": "Atrox",
+      "column3_name": "Byte Value",
+      "column3_value": "3,000 Bytes",
+      "planets": [
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "c9ad62d416956d46",
+      "section": "Mineral",
+      "ordinal": 32,
+      "image_filename": "Research Mineral 32.png",
+      "column2_name": "Planet",
+      "column2_value": "Novus",
+      "column3_name": "Byte Value",
+      "column3_value": "3,035 Bytes",
+      "planets": [
+        "Novus"
+      ]
+    },
+    {
+      "uid": "a96dd14106dcdf4f",
+      "section": "Mineral",
+      "ordinal": 33,
+      "image_filename": "Research Mineral 33.png",
+      "column2_name": "Planet",
+      "column2_value": "Calidor",
+      "column3_name": "Byte Value",
+      "column3_value": "3,600 Bytes",
+      "planets": [
+        "Calidor"
+      ]
+    },
+    {
+      "uid": "8fe0b3d13b615615",
+      "section": "Mineral",
+      "ordinal": 34,
+      "image_filename": "Research Mineral 34.png",
+      "column2_name": "Planet",
+      "column2_value": "Glacio",
+      "column3_name": "Byte Value",
+      "column3_value": "3,940 Bytes",
+      "planets": [
+        "Glacio"
+      ]
+    },
+    {
+      "uid": "cf7192ed9b9aeedf",
+      "section": "Mineral",
+      "ordinal": 35,
+      "image_filename": "Research Mineral 35.png",
+      "column2_name": "Planet",
+      "column2_value": "Novus",
+      "column3_name": "Byte Value",
+      "column3_value": "4,725 Bytes",
+      "planets": [
+        "Novus"
+      ]
+    },
+    {
+      "uid": "0e90642a24da1542",
+      "section": "Mineral",
+      "ordinal": 36,
+      "image_filename": "Research Mineral 36.png",
+      "column2_name": "Planet",
+      "column2_value": "Atrox",
+      "column3_name": "Byte Value",
+      "column3_value": "4,950 Bytes",
+      "planets": [
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "48b237587a2946b5",
+      "section": "Mineral",
+      "ordinal": 37,
+      "image_filename": "Research Mineral 37.png",
+      "column2_name": "Planet",
+      "column2_value": "Vesania",
+      "column3_name": "Byte Value",
+      "column3_value": "5,625 Bytes",
+      "planets": [
+        "Vesania"
+      ]
+    },
+    {
+      "uid": "8342c8a124812165",
+      "section": "Mineral",
+      "ordinal": 38,
+      "image_filename": "Research Mineral 38.png",
+      "column2_name": "Planet",
+      "column2_value": "Atrox",
+      "column3_name": "Byte Value",
+      "column3_value": "8,100 Bytes",
+      "planets": [
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "165da6d8810175c9",
+      "section": "Mineral",
+      "ordinal": 39,
+      "image_filename": "Research Mineral 39.png",
+      "column2_name": "Planet",
+      "column2_value": "Novus",
+      "column3_name": "Byte Value",
+      "column3_value": "8,100 Bytes",
+      "planets": [
+        "Novus"
+      ]
+    },
+    {
+      "uid": "3878ea8c1c909ddf",
+      "section": "Mineral",
+      "ordinal": 40,
+      "image_filename": "Research Mineral 40.png",
+      "column2_name": "Planet",
+      "column2_value": "Glacio",
+      "column3_name": "Byte Value",
+      "column3_value": "11,026 Bytes",
+      "planets": [
+        "Glacio"
+      ]
+    },
+    {
+      "uid": "4fcf9f4b86ad05d9",
+      "section": "Mineral",
+      "ordinal": 41,
+      "image_filename": "Research Mineral 41.png",
+      "column2_name": "Planet",
+      "column2_value": "Atrox",
+      "column3_name": "Byte Value",
+      "column3_value": "14,400 Bytes",
+      "planets": [
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "4564a01f3514d96c",
+      "section": "Organic",
+      "ordinal": 1,
+      "image_filename": "Research Organic 1.png",
+      "column2_name": "Planet",
+      "column2_value": "Sylva",
+      "column3_name": "Byte Value",
+      "column3_value": "460 Bytes",
+      "planets": [
+        "Sylva"
+      ]
+    },
+    {
+      "uid": "930ab2831b2e75cb",
+      "section": "Organic",
+      "ordinal": 2,
+      "image_filename": "Research Organic 2.png",
+      "column2_name": "Planet",
+      "column2_value": "Sylva",
+      "column3_name": "Byte Value",
+      "column3_value": "675 Bytes",
+      "planets": [
+        "Sylva"
+      ]
+    },
+    {
+      "uid": "9b831607ce6c2608",
+      "section": "Organic",
+      "ordinal": 3,
+      "image_filename": "Research Organic 3.png",
+      "column2_name": "Planet",
+      "column2_value": "Sylva",
+      "column3_name": "Byte Value",
+      "column3_value": "720 Bytes",
+      "planets": [
+        "Sylva"
+      ]
+    },
+    {
+      "uid": "062fb843dac80c4b",
+      "section": "Organic",
+      "ordinal": 4,
+      "image_filename": "Research Organic 4.png",
+      "column2_name": "Planet",
+      "column2_value": "Calidor",
+      "column3_name": "Byte Value",
+      "column3_value": "900 Bytes",
+      "planets": [
+        "Calidor"
+      ]
+    },
+    {
+      "uid": "11e649f3f7963449",
+      "section": "Organic",
+      "ordinal": 5,
+      "image_filename": "Research Organic 5.png",
+      "column2_name": "Planet",
+      "column2_value": "Calidor",
+      "column3_name": "Byte Value",
+      "column3_value": "920 Bytes",
+      "planets": [
+        "Calidor"
+      ]
+    },
+    {
+      "uid": "7e112810d3ae036b",
+      "section": "Organic",
+      "ordinal": 6,
+      "image_filename": "Research Organic 6.png",
+      "column2_name": "Planet",
+      "column2_value": "Desolo",
+      "column3_name": "Byte Value",
+      "column3_value": "1,120 Bytes",
+      "planets": [
+        "Desolo"
+      ]
+    },
+    {
+      "uid": "5fcdb7e99f439a41",
+      "section": "Organic",
+      "ordinal": 7,
+      "image_filename": "Research Organic 7.png",
+      "column2_name": "Planet",
+      "column2_value": "Vesania",
+      "column3_name": "Byte Value",
+      "column3_value": "1,140 Bytes",
+      "planets": [
+        "Vesania"
+      ]
+    },
+    {
+      "uid": "1d1497bf15108dc8",
+      "section": "Organic",
+      "ordinal": 8,
+      "image_filename": "Research Organic 8.png",
+      "column2_name": "Planet",
+      "column2_value": "Vesania",
+      "column3_name": "Byte Value",
+      "column3_value": "1,160 Bytes",
+      "planets": [
+        "Vesania"
+      ]
+    },
+    {
+      "uid": "c173c580709f1fb8",
+      "section": "Organic",
+      "ordinal": 9,
+      "image_filename": "Research Organic 9.png",
+      "column2_name": "Planet",
+      "column2_value": "Novus",
+      "column3_name": "Byte Value",
+      "column3_value": "1,350 Bytes",
+      "planets": [
+        "Novus"
+      ]
+    },
+    {
+      "uid": "b01aa00363a6b84f",
+      "section": "Organic",
+      "ordinal": 10,
+      "image_filename": "Research Organic 10.png",
+      "column2_name": "Planet",
+      "column2_value": "Calidor",
+      "column3_name": "Byte Value",
+      "column3_value": "1,440 Bytes",
+      "planets": [
+        "Calidor"
+      ]
+    },
+    {
+      "uid": "6a69c2603836bd65",
+      "section": "Organic",
+      "ordinal": 11,
+      "image_filename": "Research Organic 11.png",
+      "column2_name": "Planet",
+      "column2_value": "Glacio",
+      "column3_name": "Byte Value",
+      "column3_value": "1,575 Bytes",
+      "planets": [
+        "Glacio"
+      ]
+    },
+    {
+      "uid": "aedbc233f74e6c8e",
+      "section": "Organic",
+      "ordinal": 12,
+      "image_filename": "Research Organic 12.png",
+      "column2_name": "Planet",
+      "column2_value": "Glacio",
+      "column3_name": "Byte Value",
+      "column3_value": "1,650 Bytes",
+      "planets": [
+        "Glacio"
+      ]
+    },
+    {
+      "uid": "014adf5bef183b0e",
+      "section": "Organic",
+      "ordinal": 13,
+      "image_filename": "Research Organic 13.png",
+      "column2_name": "Planet",
+      "column2_value": "Vesania",
+      "column3_name": "Byte Value",
+      "column3_value": "1,800 Bytes",
+      "planets": [
+        "Vesania"
+      ]
+    },
+    {
+      "uid": "46d5ad27dee7ba4f",
+      "section": "Organic",
+      "ordinal": 14,
+      "image_filename": "Research Organic 14.png",
+      "column2_name": "Planet",
+      "column2_value": "Atrox",
+      "column3_name": "Byte Value",
+      "column3_value": "1,800 Bytes",
+      "planets": [
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "a2d011df3213eb3d",
+      "section": "Organic",
+      "ordinal": 15,
+      "image_filename": "Research Organic 15.png",
+      "column2_name": "Planet",
+      "column2_value": "Atrox",
+      "column3_name": "Byte Value",
+      "column3_value": "1,851 Bytes",
+      "planets": [
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "b6b0b1e8eb3f0159",
+      "section": "Organic",
+      "ordinal": 16,
+      "image_filename": "Research Organic 16.png",
+      "column2_name": "Planet",
+      "column2_value": "Novus",
+      "column3_name": "Byte Value",
+      "column3_value": "2,160 Bytes",
+      "planets": [
+        "Novus"
+      ]
+    },
+    {
+      "uid": "e1dacb628a7364ce",
+      "section": "Organic",
+      "ordinal": 17,
+      "image_filename": "Research Organic 17.png",
+      "column2_name": "Planet",
+      "column2_value": "Glacio",
+      "column3_name": "Byte Value",
+      "column3_value": "2,520 Bytes",
+      "planets": [
+        "Glacio"
+      ]
+    },
+    {
+      "uid": "c201a8523da8a6f1",
+      "section": "Organic",
+      "ordinal": 18,
+      "image_filename": "Research Organic 18.png",
+      "column2_name": "Planet",
+      "column2_value": "Atrox",
+      "column3_name": "Byte Value",
+      "column3_value": "2,880 Bytes",
+      "planets": [
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "b239fbb1c34153ff",
+      "section": "Organic",
+      "ordinal": 19,
+      "image_filename": "Research Organic 19.png",
+      "column2_name": "Planet",
+      "column2_value": "Vesania",
+      "column3_name": "Byte Value",
+      "column3_value": "3,375 Bytes",
+      "planets": [
+        "Vesania"
+      ]
+    },
+    {
+      "uid": "e1a66d2a9f45aca1",
+      "section": "Organic",
+      "ordinal": 20,
+      "image_filename": "Research Organic 20.png",
+      "column2_name": "Planet",
+      "column2_value": "Glacio",
+      "column3_name": "Byte Value",
+      "column3_value": "6,300 Bytes",
+      "planets": [
+        "Glacio"
+      ]
+    },
+    {
+      "uid": "bf885c6816e9ba0f",
+      "section": "Unknown",
+      "ordinal": 1,
+      "image_filename": "Research Unknown 1.png",
+      "column2_name": "Flora",
+      "column2_value": "Planted Popcoral",
+      "column3_name": "Byte Value",
+      "column3_value": "225 Bytes",
+      "planets": [
+        "Sylva",
+        "Desolo",
+        "Calidor",
+        "Vesania",
+        "Novus",
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "139f8a3af7f5e20d",
+      "section": "Unknown",
+      "ordinal": 2,
+      "image_filename": "Research Unknown 2.png",
+      "column2_name": "Flora",
+      "column2_value": "Thistlewhip and Wheezeweed",
+      "column3_name": "Byte Value",
+      "column3_value": "400 Bytes",
+      "planets": [
+        "Vesania",
+        "Novus",
+        "Calidor",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "6a17f8019ed485c4",
+      "section": "Unknown",
+      "ordinal": 3,
+      "image_filename": "Research Unknown 3.png",
+      "column2_name": "Flora",
+      "column2_value": "Thistlewhip and Wheezeweed",
+      "column3_name": "Byte Value",
+      "column3_value": "450 Bytes",
+      "planets": [
+        "Vesania",
+        "Novus",
+        "Calidor",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "7fbe5ffd3f3e8192",
+      "section": "Unknown",
+      "ordinal": 4,
+      "image_filename": "Research Unknown 4.png",
+      "column2_name": "Flora",
+      "column2_value": "Thistlewhip and Wheezeweed",
+      "column3_name": "Byte Value",
+      "column3_value": "450 Bytes",
+      "planets": [
+        "Vesania",
+        "Novus",
+        "Calidor",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "46743a3128999585",
+      "section": "Unknown",
+      "ordinal": 5,
+      "image_filename": "Research Unknown 5.png",
+      "column2_name": "Flora",
+      "column2_value": "Planted Popcoral",
+      "column3_name": "Byte Value",
+      "column3_value": "550 Bytes",
+      "planets": [
+        "Sylva",
+        "Desolo",
+        "Calidor",
+        "Vesania",
+        "Novus",
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "53671845994e0188",
+      "section": "Unknown",
+      "ordinal": 6,
+      "image_filename": "Research Unknown 6.png",
+      "column2_name": "Flora",
+      "column2_value": "Vibrant Hissbine",
+      "column3_name": "Byte Value",
+      "column3_value": "900 Bytes",
+      "planets": [
+        "Sylva",
+        "Desolo",
+        "Calidor",
+        "Vesania",
+        "Novus",
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "99b331d3ccef8988",
+      "section": "Unknown",
+      "ordinal": 7,
+      "image_filename": "Research Unknown 7.png",
+      "column2_name": "Flora",
+      "column2_value": "Vibrant Hissbine",
+      "column3_name": "Byte Value",
+      "column3_value": "950 Bytes",
+      "planets": [
+        "Sylva",
+        "Desolo",
+        "Calidor",
+        "Vesania",
+        "Novus",
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "8b3ad6c393c1f1a6",
+      "section": "Unknown",
+      "ordinal": 8,
+      "image_filename": "Research Unknown 8.png",
+      "column2_name": "Flora",
+      "column2_value": "Vibrant Hissbine",
+      "column3_name": "Byte Value",
+      "column3_value": "1,000 Bytes",
+      "planets": [
+        "Sylva",
+        "Desolo",
+        "Calidor",
+        "Vesania",
+        "Novus",
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "d144748bd592c973",
+      "section": "Unknown",
+      "ordinal": 9,
+      "image_filename": "Research Unknown 9.png",
+      "column2_name": "Flora",
+      "column2_value": "Planted Popcoral",
+      "column3_name": "Byte Value",
+      "column3_value": "1,100 Bytes",
+      "planets": [
+        "Sylva",
+        "Desolo",
+        "Calidor",
+        "Vesania",
+        "Novus",
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "a911ee31b8e42cd9",
+      "section": "Unknown",
+      "ordinal": 10,
+      "image_filename": "Research Unknown 10.png",
+      "column2_name": "Flora",
+      "column2_value": "Spiny Attactus",
+      "column3_name": "Byte Value",
+      "column3_value": "1,150 Bytes",
+      "planets": [
+        "Calidor"
+      ]
+    },
+    {
+      "uid": "22f3024bb39acf88",
+      "section": "Unknown",
+      "ordinal": 11,
+      "image_filename": "Research Unknown 11.png",
+      "column2_name": "Flora",
+      "column2_value": "Spiny Attactus",
+      "column3_name": "Byte Value",
+      "column3_value": "1,250 Bytes",
+      "planets": [
+        "Calidor"
+      ]
+    },
+    {
+      "uid": "b3cadb7a878870ac",
+      "section": "Unknown",
+      "ordinal": 12,
+      "image_filename": "Research Unknown 12.png",
+      "column2_name": "Flora",
+      "column2_value": "Spiny Attactus",
+      "column3_name": "Byte Value",
+      "column3_value": "1,250 Bytes",
+      "planets": [
+        "Calidor"
+      ]
+    },
+    {
+      "uid": "d181b07f7d8f2343",
+      "section": "Unknown",
+      "ordinal": 13,
+      "image_filename": "Research Unknown 13.png",
+      "column2_name": "Flora",
+      "column2_value": "Dull Hissbine",
+      "column3_name": "Byte Value",
+      "column3_value": "1,250 Bytes",
+      "planets": [
+        "Sylva",
+        "Desolo",
+        "Calidor",
+        "Vesania",
+        "Novus",
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "d356cd9b1f07b64d",
+      "section": "Unknown",
+      "ordinal": 14,
+      "image_filename": "Research Unknown 14.png",
+      "column2_name": "Flora",
+      "column2_value": "Noxious Cataplant",
+      "column3_name": "Byte Value",
+      "column3_value": "1,300 Bytes",
+      "planets": [
+        "Vesania",
+        "Novus"
+      ]
+    },
+    {
+      "uid": "5b24fb479efbc0de",
+      "section": "Unknown",
+      "ordinal": 15,
+      "image_filename": "Research Unknown 15.png",
+      "column2_name": "Flora",
+      "column2_value": "Dull Hissbine",
+      "column3_name": "Byte Value",
+      "column3_value": "1,350 Bytes",
+      "planets": [
+        "Sylva",
+        "Desolo",
+        "Calidor",
+        "Vesania",
+        "Novus",
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "601ecb460e92cb11",
+      "section": "Unknown",
+      "ordinal": 16,
+      "image_filename": "Research Unknown 16.png",
+      "column2_name": "Flora",
+      "column2_value": "Dull Hissbine",
+      "column3_name": "Byte Value",
+      "column3_value": "1,350 Bytes",
+      "planets": [
+        "Sylva",
+        "Desolo",
+        "Calidor",
+        "Vesania",
+        "Novus",
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "9d50fae3ed300265",
+      "section": "Unknown",
+      "ordinal": 17,
+      "image_filename": "Research Unknown 17.png",
+      "column2_name": "Flora",
+      "column2_value": "Noxious Cataplant",
+      "column3_name": "Byte Value",
+      "column3_value": "1,400 Bytes",
+      "planets": [
+        "Vesania",
+        "Novus"
+      ]
+    },
+    {
+      "uid": "6153f126524202b8",
+      "section": "Unknown",
+      "ordinal": 18,
+      "image_filename": "Research Unknown 18.png",
+      "column2_name": "Flora",
+      "column2_value": "Noxious Cataplant",
+      "column3_name": "Byte Value",
+      "column3_value": "1,400 Bytes",
+      "planets": [
+        "Vesania",
+        "Novus"
+      ]
+    },
+    {
+      "uid": "b31485c6e7d56aec",
+      "section": "Unknown",
+      "ordinal": 19,
+      "image_filename": "Research Unknown 19.png",
+      "column2_name": "Flora",
+      "column2_value": "Volatile Cataplant",
+      "column3_name": "Byte Value",
+      "column3_value": "2,150 Bytes",
+      "planets": [
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "46705f0f6135b3c1",
+      "section": "Unknown",
+      "ordinal": 20,
+      "image_filename": "Research Unknown 20.png",
+      "column2_name": "Flora",
+      "column2_value": "Volatile Cataplant",
+      "column3_name": "Byte Value",
+      "column3_value": "2,200 Bytes",
+      "planets": [
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "274019a08247632d",
+      "section": "Unknown",
+      "ordinal": 21,
+      "image_filename": "Research Unknown 21.png",
+      "column2_name": "Flora",
+      "column2_value": "Volatile Cataplant",
+      "column3_name": "Byte Value",
+      "column3_value": "2,250 Bytes",
+      "planets": [
+        "Glacio",
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "bbb1030e184444cb",
+      "section": "Unknown",
+      "ordinal": 22,
+      "image_filename": "Research Unknown 22.png",
+      "column2_name": "Flora",
+      "column2_value": "Spewflower",
+      "column3_name": "Byte Value",
+      "column3_value": "2,500 Bytes",
+      "planets": [
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "6e3fdfd59c64902d",
+      "section": "Unknown",
+      "ordinal": 23,
+      "image_filename": "Research Unknown 23.png",
+      "column2_name": "Flora",
+      "column2_value": "Spewflower",
+      "column3_name": "Byte Value",
+      "column3_value": "2,550 Bytes",
+      "planets": [
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "e9d4147d147d8952",
+      "section": "Unknown",
+      "ordinal": 24,
+      "image_filename": "Research Unknown 24.png",
+      "column2_name": "Flora",
+      "column2_value": "Spewflower",
+      "column3_name": "Byte Value",
+      "column3_value": "2,600 Bytes",
+      "planets": [
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "811bde74d5b405e5",
+      "section": "Unknown",
+      "ordinal": 25,
+      "image_filename": "Research Unknown 25.png",
+      "column2_name": "Flora",
+      "column2_value": "Volatile Attactus",
+      "column3_name": "Byte Value",
+      "column3_value": "3,000 Bytes",
+      "planets": [
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "a575a167e5d0bb6a",
+      "section": "Unknown",
+      "ordinal": 26,
+      "image_filename": "Research Unknown 26.png",
+      "column2_name": "Flora",
+      "column2_value": "Volatile Attactus",
+      "column3_name": "Byte Value",
+      "column3_value": "3,250 Bytes",
+      "planets": [
+        "Atrox"
+      ]
+    },
+    {
+      "uid": "bbbcea6ec4856c96",
+      "section": "Unknown",
+      "ordinal": 27,
+      "image_filename": "Research Unknown 27.png",
+      "column2_name": "Flora",
+      "column2_value": "Volatile Attactus",
+      "column3_name": "Byte Value",
+      "column3_value": "3,500 Bytes",
+      "planets": [
+        "Atrox"
+      ]
+    }
+  ]
+}

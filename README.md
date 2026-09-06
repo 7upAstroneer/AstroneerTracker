@@ -27,7 +27,6 @@ Notable current features include:
   - Orbital Platform count, stage, and orbiting planet
 - Manual Data Input for persistent corrections
 - Automatic save recognition and save browsing
-- `(gone)` handling for deleted saves
 - Offline bundled UI images/assets
 - Unidentified Satellite Success detection when the seven required Gateway
   Keys disappear, even if extra triptychs are retained
